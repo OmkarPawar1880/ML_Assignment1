@@ -18,7 +18,7 @@
   <br>
   2.Imbalanced Data - Some reports have high chances for some area and some reports say not in this particular area.
   <br>
-  3.Noisy Data - Temperature limits (intervals which is used in humidity. It depends on multiple factors.
+  3.Noisy Data - Temperature limits (intervals which is used in humidity). It depends on multiple factors.
 
 Types of Data
   - Structured Data - reports
