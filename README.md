@@ -28,4 +28,4 @@ Types of Data
 # Assignment No.2
 https://colab.research.google.com/drive/1tN_ATwvfv6wZyweBgWVK8ph1Jgr16QVK?usp=sharing
     
-
+bbj
